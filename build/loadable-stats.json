@@ -1,0 +1,2739 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.46.0",
+  "hash": "ce74ff56e58779fb614c",
+  "publicPath": "/",
+  "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+  "assetsByChunkName": {
+    "draft-js": [
+      "static/js/draft-js.ca0a182c.chunk.js",
+      "static/js/draft-js.ca0a182c.chunk.js.map"
+    ],
+    "react-select": [
+      "static/js/react-select.15669f27.chunk.js",
+      "static/js/react-select.15669f27.chunk.js.map"
+    ],
+    "client": [
+      "static/css/client.ccf80b4b.chunk.css",
+      "static/js/client.f6cf6a8c.chunk.js",
+      "static/css/client.ccf80b4b.chunk.css.map",
+      "static/js/client.f6cf6a8c.chunk.js.map"
+    ],
+    "diff": [
+      "static/js/diff.42a435ca.chunk.js",
+      "static/js/diff.42a435ca.chunk.js.map"
+    ],
+    "draft-js-lib-isSoftNewlineEvent": [
+      "static/js/draft-js-lib-isSoftNewlineEvent.232637f9.chunk.js",
+      "static/js/draft-js-lib-isSoftNewlineEvent.232637f9.chunk.js.map"
+    ],
+    "immutable": [
+      "static/js/immutable.2c9576f4.chunk.js",
+      "static/js/immutable.2c9576f4.chunk.js.map"
+    ],
+    "plone-volto-components-theme-View-EventView": [
+      "static/js/plone-volto-components-theme-View-EventView.28291950.chunk.js",
+      "static/js/plone-volto-components-theme-View-EventView.28291950.chunk.js.map"
+    ],
+    "prettier-parser-html": [
+      "static/js/prettier-parser-html.acf6f3d8.chunk.js",
+      "static/js/prettier-parser-html.acf6f3d8.chunk.js.map"
+    ],
+    "prettier-standalone": [
+      "static/js/prettier-standalone.57f888ea.chunk.js",
+      "static/js/prettier-standalone.57f888ea.chunk.js.map"
+    ],
+    "prismjs-components-prism-core": [
+      "static/js/prismjs-components-prism-core.3633d484.chunk.js",
+      "static/js/prismjs-components-prism-core.3633d484.chunk.js.map"
+    ],
+    "rc-time-picker": [
+      "static/js/rc-time-picker.93961bf3.chunk.js",
+      "static/js/rc-time-picker.93961bf3.chunk.js.map"
+    ],
+    "react-dates": [
+      "static/js/react-dates.ceaeaa1c.chunk.js",
+      "static/js/react-dates.ceaeaa1c.chunk.js.map"
+    ],
+    "react-dnd": [
+      "static/js/react-dnd.c695781c.chunk.js",
+      "static/js/react-dnd.c695781c.chunk.js.map"
+    ],
+    "react-dnd-html5-backend": [
+      "static/js/react-dnd-html5-backend.8bcdede3.chunk.js",
+      "static/js/react-dnd-html5-backend.8bcdede3.chunk.js.map"
+    ],
+    "react-image-gallery": [
+      "static/js/react-image-gallery.19c0467e.chunk.js",
+      "static/js/react-image-gallery.19c0467e.chunk.js.map"
+    ],
+    "react-simple-code-editor": [
+      "static/js/react-simple-code-editor.8340fa24.chunk.js",
+      "static/js/react-simple-code-editor.8340fa24.chunk.js.map"
+    ],
+    "react-sortable-hoc": [
+      "static/js/react-sortable-hoc.f1646d44.chunk.js",
+      "static/js/react-sortable-hoc.f1646d44.chunk.js.map"
+    ],
+    "react-virtualized": [
+      "static/js/react-virtualized.bfcb3ba7.chunk.js",
+      "static/js/react-virtualized.bfcb3ba7.chunk.js.map"
+    ],
+    "rrule": [
+      "static/js/rrule.ab8d4d37.chunk.js",
+      "static/js/rrule.ab8d4d37.chunk.js.map"
+    ],
+    "runtime~client": [
+      "static/js/runtime~client.1cacb636.js",
+      "static/js/runtime~client.1cacb636.js.map"
+    ]
+  },
+  "assets": [
+    {
+      "name": "android-chrome-192x192.png",
+      "size": 8295,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "copied": true,
+        "sourceFilename": "public/android-chrome-192x192.png"
+      },
+      "emitted": false
+    },
+    {
+      "name": "android-chrome-512x512.png",
+      "size": 23153,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "copied": true,
+        "sourceFilename": "public/android-chrome-512x512.png"
+      },
+      "emitted": false
+    },
+    {
+      "name": "apple-touch-icon.png",
+      "size": 7973,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "copied": true,
+        "sourceFilename": "public/apple-touch-icon.png"
+      },
+      "emitted": false
+    },
+    {
+      "name": "favicon-16x16.png",
+      "size": 1012,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "copied": true,
+        "sourceFilename": "public/favicon-16x16.png"
+      },
+      "emitted": false
+    },
+    {
+      "name": "favicon-32x32.png",
+      "size": 1618,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "copied": true,
+        "sourceFilename": "public/favicon-32x32.png"
+      },
+      "emitted": false
+    },
+    {
+      "name": "favicon.ico",
+      "size": 15086,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "copied": true,
+        "sourceFilename": "public/favicon.ico"
+      },
+      "emitted": false
+    },
+    {
+      "name": "icon.svg",
+      "size": 1401,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "copied": true,
+        "sourceFilename": "public/icon.svg"
+      },
+      "emitted": false
+    },
+    {
+      "name": "index.html.spa",
+      "size": 1316,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "copied": true,
+        "sourceFilename": "public/index.html.spa"
+      },
+      "emitted": false
+    },
+    {
+      "name": "robots.txt",
+      "size": 15,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "copied": true,
+        "sourceFilename": "public/robots.txt"
+      },
+      "emitted": false
+    },
+    {
+      "name": "site.webmanifest",
+      "size": 426,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "copied": true,
+        "sourceFilename": "public/site.webmanifest"
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/css/client.ccf80b4b.chunk.css",
+      "size": 741172,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "client"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/css/client.ccf80b4b.chunk.css.map",
+      "size": 1909843,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "client"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/20.70e3dfa1.chunk.js",
+      "size": 51437,
+      "chunks": [
+        20
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/20.70e3dfa1.chunk.js.map",
+      "size": 107,
+      "chunks": [
+        20
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/21.d1eb9f1c.chunk.js",
+      "size": 46073,
+      "chunks": [
+        21
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/21.d1eb9f1c.chunk.js.map",
+      "size": 107,
+      "chunks": [
+        21
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/22.626b1fd7.chunk.js",
+      "size": 51073,
+      "chunks": [
+        22
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/22.626b1fd7.chunk.js.map",
+      "size": 107,
+      "chunks": [
+        22
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/23.f79c53d7.chunk.js",
+      "size": 47467,
+      "chunks": [
+        23
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/23.f79c53d7.chunk.js.map",
+      "size": 107,
+      "chunks": [
+        23
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/24.510c0669.chunk.js",
+      "size": 51787,
+      "chunks": [
+        24
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/24.510c0669.chunk.js.map",
+      "size": 107,
+      "chunks": [
+        24
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/25.8dfa6d8d.chunk.js",
+      "size": 43085,
+      "chunks": [
+        25
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/25.8dfa6d8d.chunk.js.map",
+      "size": 107,
+      "chunks": [
+        25
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/26.35dd8aec.chunk.js",
+      "size": 55216,
+      "chunks": [
+        26
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/26.35dd8aec.chunk.js.map",
+      "size": 107,
+      "chunks": [
+        26
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/27.78a0d47c.chunk.js",
+      "size": 43064,
+      "chunks": [
+        27
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/27.78a0d47c.chunk.js.map",
+      "size": 107,
+      "chunks": [
+        27
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/28.791e37ca.chunk.js",
+      "size": 31737,
+      "chunks": [
+        28
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/28.791e37ca.chunk.js.map",
+      "size": 107,
+      "chunks": [
+        28
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/29.5d6c3d32.chunk.js",
+      "size": 50190,
+      "chunks": [
+        29
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/29.5d6c3d32.chunk.js.map",
+      "size": 107,
+      "chunks": [
+        29
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/30.2a3f8a91.chunk.js",
+      "size": 44764,
+      "chunks": [
+        30
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/30.2a3f8a91.chunk.js.map",
+      "size": 107,
+      "chunks": [
+        30
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/31.efbea2b8.chunk.js",
+      "size": 2980,
+      "chunks": [
+        31
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/31.efbea2b8.chunk.js.map",
+      "size": 7945,
+      "chunks": [
+        31
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/client.f6cf6a8c.chunk.js",
+      "size": 2452603,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "client"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true,
+        "related": {
+          "license": "static/js/client.f6cf6a8c.chunk.js.LICENSE.txt"
+        }
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/client.f6cf6a8c.chunk.js.LICENSE.txt",
+      "size": 2792,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/client.f6cf6a8c.chunk.js.map",
+      "size": 9293526,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "client"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/diff.42a435ca.chunk.js",
+      "size": 18511,
+      "chunks": [
+        3
+      ],
+      "chunkNames": [
+        "diff"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true,
+        "related": {
+          "license": "static/js/diff.42a435ca.chunk.js.LICENSE.txt"
+        }
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/diff.42a435ca.chunk.js.LICENSE.txt",
+      "size": 1604,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/diff.42a435ca.chunk.js.map",
+      "size": 218643,
+      "chunks": [
+        3
+      ],
+      "chunkNames": [
+        "diff"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/draft-js-lib-isSoftNewlineEvent.232637f9.chunk.js",
+      "size": 596,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "draft-js-lib-isSoftNewlineEvent"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/draft-js-lib-isSoftNewlineEvent.232637f9.chunk.js.map",
+      "size": 2085,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "draft-js-lib-isSoftNewlineEvent"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/draft-js.ca0a182c.chunk.js",
+      "size": 429429,
+      "chunks": [
+        0,
+        5
+      ],
+      "chunkNames": [
+        "draft-js"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/draft-js.ca0a182c.chunk.js.map",
+      "size": 1883407,
+      "chunks": [
+        0,
+        5
+      ],
+      "chunkNames": [
+        "draft-js"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/immutable.2c9576f4.chunk.js",
+      "size": 56824,
+      "chunks": [
+        5
+      ],
+      "chunkNames": [
+        "immutable"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/immutable.2c9576f4.chunk.js.map",
+      "size": 239523,
+      "chunks": [
+        5
+      ],
+      "chunkNames": [
+        "immutable"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/plone-volto-components-theme-View-EventView.28291950.chunk.js",
+      "size": 1374,
+      "chunks": [
+        6
+      ],
+      "chunkNames": [
+        "plone-volto-components-theme-View-EventView"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/plone-volto-components-theme-View-EventView.28291950.chunk.js.map",
+      "size": 4931,
+      "chunks": [
+        6
+      ],
+      "chunkNames": [
+        "plone-volto-components-theme-View-EventView"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/prettier-parser-html.acf6f3d8.chunk.js",
+      "size": 109510,
+      "chunks": [
+        7
+      ],
+      "chunkNames": [
+        "prettier-parser-html"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true,
+        "related": {
+          "license": "static/js/prettier-parser-html.acf6f3d8.chunk.js.LICENSE.txt"
+        }
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/prettier-parser-html.acf6f3d8.chunk.js.LICENSE.txt",
+      "size": 221,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/prettier-parser-html.acf6f3d8.chunk.js.map",
+      "size": 247094,
+      "chunks": [
+        7
+      ],
+      "chunkNames": [
+        "prettier-parser-html"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/prettier-standalone.57f888ea.chunk.js",
+      "size": 459872,
+      "chunks": [
+        8
+      ],
+      "chunkNames": [
+        "prettier-standalone"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true,
+        "related": {
+          "license": "static/js/prettier-standalone.57f888ea.chunk.js.LICENSE.txt"
+        }
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/prettier-standalone.57f888ea.chunk.js.LICENSE.txt",
+      "size": 833,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/prettier-standalone.57f888ea.chunk.js.map",
+      "size": 1732817,
+      "chunks": [
+        8
+      ],
+      "chunkNames": [
+        "prettier-standalone"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/prismjs-components-prism-core.3633d484.chunk.js",
+      "size": 7677,
+      "chunks": [
+        9
+      ],
+      "chunkNames": [
+        "prismjs-components-prism-core"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true,
+        "related": {
+          "license": "static/js/prismjs-components-prism-core.3633d484.chunk.js.LICENSE.txt"
+        }
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/prismjs-components-prism-core.3633d484.chunk.js.LICENSE.txt",
+      "size": 193,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/prismjs-components-prism-core.3633d484.chunk.js.map",
+      "size": 55288,
+      "chunks": [
+        9
+      ],
+      "chunkNames": [
+        "prismjs-components-prism-core"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/rc-time-picker.93961bf3.chunk.js",
+      "size": 192532,
+      "chunks": [
+        10
+      ],
+      "chunkNames": [
+        "rc-time-picker"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true,
+        "related": {
+          "license": "static/js/rc-time-picker.93961bf3.chunk.js.LICENSE.txt"
+        }
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/rc-time-picker.93961bf3.chunk.js.LICENSE.txt",
+      "size": 50,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/rc-time-picker.93961bf3.chunk.js.map",
+      "size": 734233,
+      "chunks": [
+        10
+      ],
+      "chunkNames": [
+        "rc-time-picker"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-dates.ceaeaa1c.chunk.js",
+      "size": 221765,
+      "chunks": [
+        11
+      ],
+      "chunkNames": [
+        "react-dates"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-dates.ceaeaa1c.chunk.js.map",
+      "size": 819366,
+      "chunks": [
+        11
+      ],
+      "chunkNames": [
+        "react-dates"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-dnd-html5-backend.8bcdede3.chunk.js",
+      "size": 18561,
+      "chunks": [
+        13
+      ],
+      "chunkNames": [
+        "react-dnd-html5-backend"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-dnd-html5-backend.8bcdede3.chunk.js.map",
+      "size": 67140,
+      "chunks": [
+        13
+      ],
+      "chunkNames": [
+        "react-dnd-html5-backend"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-dnd.c695781c.chunk.js",
+      "size": 47955,
+      "chunks": [
+        12
+      ],
+      "chunkNames": [
+        "react-dnd"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-dnd.c695781c.chunk.js.map",
+      "size": 197860,
+      "chunks": [
+        12
+      ],
+      "chunkNames": [
+        "react-dnd"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-image-gallery.19c0467e.chunk.js",
+      "size": 49392,
+      "chunks": [
+        14
+      ],
+      "chunkNames": [
+        "react-image-gallery"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-image-gallery.19c0467e.chunk.js.map",
+      "size": 109469,
+      "chunks": [
+        14
+      ],
+      "chunkNames": [
+        "react-image-gallery"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-select.15669f27.chunk.js",
+      "size": 194421,
+      "chunks": [
+        1,
+        18
+      ],
+      "chunkNames": [
+        "react-select"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true,
+        "related": {
+          "license": "static/js/react-select.15669f27.chunk.js.LICENSE.txt"
+        }
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-select.15669f27.chunk.js.LICENSE.txt",
+      "size": 404,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-select.15669f27.chunk.js.map",
+      "size": 785371,
+      "chunks": [
+        1,
+        18
+      ],
+      "chunkNames": [
+        "react-select"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-simple-code-editor.8340fa24.chunk.js",
+      "size": 8827,
+      "chunks": [
+        15
+      ],
+      "chunkNames": [
+        "react-simple-code-editor"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-simple-code-editor.8340fa24.chunk.js.map",
+      "size": 33501,
+      "chunks": [
+        15
+      ],
+      "chunkNames": [
+        "react-simple-code-editor"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-sortable-hoc.f1646d44.chunk.js",
+      "size": 28274,
+      "chunks": [
+        16
+      ],
+      "chunkNames": [
+        "react-sortable-hoc"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-sortable-hoc.f1646d44.chunk.js.map",
+      "size": 108472,
+      "chunks": [
+        16
+      ],
+      "chunkNames": [
+        "react-sortable-hoc"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-virtualized.bfcb3ba7.chunk.js",
+      "size": 122531,
+      "chunks": [
+        17
+      ],
+      "chunkNames": [
+        "react-virtualized"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/react-virtualized.bfcb3ba7.chunk.js.map",
+      "size": 524812,
+      "chunks": [
+        17
+      ],
+      "chunkNames": [
+        "react-virtualized"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/rrule.ab8d4d37.chunk.js",
+      "size": 47103,
+      "chunks": [
+        18
+      ],
+      "chunkNames": [
+        "rrule"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/rrule.ab8d4d37.chunk.js.map",
+      "size": 190277,
+      "chunks": [
+        18
+      ],
+      "chunkNames": [
+        "rrule"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/runtime~client.1cacb636.js",
+      "size": 3188,
+      "chunks": [
+        19
+      ],
+      "chunkNames": [
+        "runtime~client"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/runtime~client.1cacb636.js.map",
+      "size": 14206,
+      "chunks": [
+        19
+      ],
+      "chunkNames": [
+        "runtime~client"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/media/Logo.16e25cdf.svg",
+      "size": 3754,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-Bold-devanagari.7def222d.woff2",
+      "size": 39148,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-Bold-latin.25b0e113.woff2",
+      "size": 7816,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-Bold-latinext.96b6d546.woff2",
+      "size": 5384,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-BoldItalic-devanagari.17352fe0.woff2",
+      "size": 44992,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-BoldItalic-latin.858549c2.woff2",
+      "size": 8596,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-BoldItalic-latinext.34ad495c.woff2",
+      "size": 5832,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-Light-devanagari.dc820d9f.woff2",
+      "size": 39476,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-Light-latin.8d91ec1c.woff2",
+      "size": 7840,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-Light-latinext.6731e1ba.woff2",
+      "size": 5428,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-Regular-devanagari.790d0c8d.woff2",
+      "size": 39564,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-Regular-latin.9212f6f9.woff2",
+      "size": 7884,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-Regular-latinext.0ed299a4.woff2",
+      "size": 5544,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-RegularItalic-devanagari.ba7c820d.woff2",
+      "size": 45816,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-RegularItalic-latin.a242ba0d.woff2",
+      "size": 8668,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-RegularItalic-latinext.efd6a6a1.woff2",
+      "size": 5872,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-Semibold-devanagari.79e6e81d.woff2",
+      "size": 39136,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-Semibold-latin.a09f2fcc.woff2",
+      "size": 7748,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/Poppins-Semibold-latinext.a6ff41d1.woff2",
+      "size": 5452,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/block-image.8a4a14d5.svg",
+      "size": 428,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/block-maps.731e84f6.svg",
+      "size": 3848,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/block-video.832fa3ff.svg",
+      "size": 718,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/default-image.9451b251.svg",
+      "size": 614,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/flags.9c74e172.png",
+      "size": 28123,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/grid-1.f89d5f8b.svg",
+      "size": 282,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/grid-2.4068e674.svg",
+      "size": 344,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/grid-3.19cf9f8d.svg",
+      "size": 388,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/grid-4.2b07a173.svg",
+      "size": 432,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/grid-5.b5b500b1.svg",
+      "size": 514,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/grid-6.3a790adb.svg",
+      "size": 560,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/grid-more.63c498e3.svg",
+      "size": 731,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/icons.022583c4.svg",
+      "size": 199380,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/icons.06400145.ttf",
+      "size": 54728,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/icons.dbc1ef8b.eot",
+      "size": 54884,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/icons.df45b7de.woff",
+      "size": 54804,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/slick.b7c9e1e4.woff",
+      "size": 1380,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/slick.ced611da.eot",
+      "size": 2048,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/slick.d41f55a7.ttf",
+      "size": 1892,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/slick.f97e3bbf.svg",
+      "size": 2152,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "client": {
+      "chunks": [
+        19,
+        2
+      ],
+      "assets": [
+        "static/js/runtime~client.1cacb636.js",
+        "static/js/runtime~client.1cacb636.js.map",
+        "static/css/client.ccf80b4b.chunk.css",
+        "static/js/client.f6cf6a8c.chunk.js",
+        "static/css/client.ccf80b4b.chunk.css.map",
+        "static/js/client.f6cf6a8c.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "client": {
+      "chunks": [
+        19,
+        2
+      ],
+      "assets": [
+        "static/js/runtime~client.1cacb636.js",
+        "static/js/runtime~client.1cacb636.js.map",
+        "static/css/client.ccf80b4b.chunk.css",
+        "static/js/client.f6cf6a8c.chunk.js",
+        "static/css/client.ccf80b4b.chunk.css.map",
+        "static/js/client.f6cf6a8c.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "plone-volto-components-manage-Widgets-DatetimeWidget": {
+      "chunks": [],
+      "assets": [],
+      "children": {},
+      "childAssets": {}
+    },
+    "plone-volto-components-manage-Widgets-RecurrenceWidget-RecurrenceWidget": {
+      "chunks": [
+        1
+      ],
+      "assets": [
+        "static/js/react-select.15669f27.chunk.js",
+        "static/js/react-select.15669f27.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "plone-volto-components-theme-View-EventView": {
+      "chunks": [
+        6
+      ],
+      "assets": [
+        "static/js/plone-volto-components-theme-View-EventView.28291950.chunk.js",
+        "static/js/plone-volto-components-theme-View-EventView.28291950.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "rc-time-picker": {
+      "chunks": [
+        10
+      ],
+      "assets": [
+        "static/js/rc-time-picker.93961bf3.chunk.js",
+        "static/js/rc-time-picker.93961bf3.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "react-dropzone": {
+      "chunks": [],
+      "assets": [],
+      "children": {},
+      "childAssets": {}
+    },
+    "draft-js-plugins-editor": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "static/js/draft-js.ca0a182c.chunk.js",
+        "static/js/draft-js.ca0a182c.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "react-simple-code-editor": {
+      "chunks": [
+        15
+      ],
+      "assets": [
+        "static/js/react-simple-code-editor.8340fa24.chunk.js",
+        "static/js/react-simple-code-editor.8340fa24.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "react-image-gallery": {
+      "chunks": [
+        14
+      ],
+      "assets": [
+        "static/js/react-image-gallery.19c0467e.chunk.js",
+        "static/js/react-image-gallery.19c0467e.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "prettier-standalone": {
+      "chunks": [
+        8
+      ],
+      "assets": [
+        "static/js/prettier-standalone.57f888ea.chunk.js",
+        "static/js/prettier-standalone.57f888ea.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "prettier-parser-html": {
+      "chunks": [
+        7
+      ],
+      "assets": [
+        "static/js/prettier-parser-html.acf6f3d8.chunk.js",
+        "static/js/prettier-parser-html.acf6f3d8.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "prismjs-components-prism-core": {
+      "chunks": [
+        9
+      ],
+      "assets": [
+        "static/js/prismjs-components-prism-core.3633d484.chunk.js",
+        "static/js/prismjs-components-prism-core.3633d484.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "react-toastify": {
+      "chunks": [],
+      "assets": [],
+      "children": {},
+      "childAssets": {}
+    },
+    "react-select": {
+      "chunks": [
+        1
+      ],
+      "assets": [
+        "static/js/react-select.15669f27.chunk.js",
+        "static/js/react-select.15669f27.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "react-virtualized": {
+      "chunks": [
+        17
+      ],
+      "assets": [
+        "static/js/react-virtualized.bfcb3ba7.chunk.js",
+        "static/js/react-virtualized.bfcb3ba7.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "react-sortable-hoc": {
+      "chunks": [
+        16
+      ],
+      "assets": [
+        "static/js/react-sortable-hoc.f1646d44.chunk.js",
+        "static/js/react-sortable-hoc.f1646d44.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "react-select-async-paginate": {
+      "chunks": [
+        1
+      ],
+      "assets": [
+        "static/js/react-select.15669f27.chunk.js",
+        "static/js/react-select.15669f27.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "react-select-async": {
+      "chunks": [
+        1
+      ],
+      "assets": [
+        "static/js/react-select.15669f27.chunk.js",
+        "static/js/react-select.15669f27.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "react-select-creatable": {
+      "chunks": [
+        1
+      ],
+      "assets": [
+        "static/js/react-select.15669f27.chunk.js",
+        "static/js/react-select.15669f27.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "react-select-async-creatable": {
+      "chunks": [
+        1
+      ],
+      "assets": [
+        "static/js/react-select.15669f27.chunk.js",
+        "static/js/react-select.15669f27.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "diff": {
+      "chunks": [
+        3
+      ],
+      "assets": [
+        "static/js/diff.42a435ca.chunk.js",
+        "static/js/diff.42a435ca.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "moment": {
+      "chunks": [],
+      "assets": [],
+      "children": {},
+      "childAssets": {}
+    },
+    "react-dates": {
+      "chunks": [
+        11
+      ],
+      "assets": [
+        "static/js/react-dates.ceaeaa1c.chunk.js",
+        "static/js/react-dates.ceaeaa1c.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "react-dnd": {
+      "chunks": [
+        12
+      ],
+      "assets": [
+        "static/js/react-dnd.c695781c.chunk.js",
+        "static/js/react-dnd.c695781c.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "react-dnd-html5-backend": {
+      "chunks": [
+        13
+      ],
+      "assets": [
+        "static/js/react-dnd-html5-backend.8bcdede3.chunk.js",
+        "static/js/react-dnd-html5-backend.8bcdede3.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "react-beautiful-dnd": {
+      "chunks": [],
+      "assets": [],
+      "children": {},
+      "childAssets": {}
+    },
+    "rrule": {
+      "chunks": [
+        18
+      ],
+      "assets": [
+        "static/js/rrule.ab8d4d37.chunk.js",
+        "static/js/rrule.ab8d4d37.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "immutable": {
+      "chunks": [
+        5
+      ],
+      "assets": [
+        "static/js/immutable.2c9576f4.chunk.js",
+        "static/js/immutable.2c9576f4.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "draft-js": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "static/js/draft-js.ca0a182c.chunk.js",
+        "static/js/draft-js.ca0a182c.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "draft-js-lib-isSoftNewlineEvent": {
+      "chunks": [
+        4
+      ],
+      "assets": [
+        "static/js/draft-js-lib-isSoftNewlineEvent.232637f9.chunk.js",
+        "static/js/draft-js-lib-isSoftNewlineEvent.232637f9.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "draftjs-filters": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "static/js/draft-js.ca0a182c.chunk.js",
+        "static/js/draft-js.ca0a182c.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "draft-js-inline-toolbar-plugin": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "static/js/draft-js.ca0a182c.chunk.js",
+        "static/js/draft-js.ca0a182c.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "draft-js-import-html": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "static/js/draft-js.ca0a182c.chunk.js",
+        "static/js/draft-js.ca0a182c.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "draft-js-block-breakout-plugin": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "static/js/draft-js.ca0a182c.chunk.js",
+        "static/js/draft-js.ca0a182c.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "draft-js-buttons-lib-utils-createInlineStyleButton": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "static/js/draft-js.ca0a182c.chunk.js",
+        "static/js/draft-js.ca0a182c.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "draft-js-buttons-lib-utils-createBlockStyleButton": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "static/js/draft-js.ca0a182c.chunk.js",
+        "static/js/draft-js.ca0a182c.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "draft-js-plugins-utils": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "static/js/draft-js.ca0a182c.chunk.js",
+        "static/js/draft-js.ca0a182c.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    },
+    "copy-webpack-plugin": {
+      "entries": [
+        {
+          "type": "log",
+          "message": "starting to add additional assets..."
+        },
+        {
+          "type": "log",
+          "message": "starting to process a pattern from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/**/*' using '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend' context"
+        },
+        {
+          "type": "log",
+          "message": "begin globbing '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/**/*'..."
+        },
+        {
+          "type": "log",
+          "message": "'to' option '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build' determinated as 'dir'"
+        },
+        {
+          "type": "log",
+          "message": "determined that '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/android-chrome-192x192.png' should write to 'android-chrome-192x192.png'"
+        },
+        {
+          "type": "log",
+          "message": "'to' option '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build' determinated as 'dir'"
+        },
+        {
+          "type": "log",
+          "message": "determined that '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/android-chrome-512x512.png' should write to 'android-chrome-512x512.png'"
+        },
+        {
+          "type": "log",
+          "message": "'to' option '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build' determinated as 'dir'"
+        },
+        {
+          "type": "log",
+          "message": "determined that '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/apple-touch-icon.png' should write to 'apple-touch-icon.png'"
+        },
+        {
+          "type": "log",
+          "message": "'to' option '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build' determinated as 'dir'"
+        },
+        {
+          "type": "log",
+          "message": "determined that '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/favicon-16x16.png' should write to 'favicon-16x16.png'"
+        },
+        {
+          "type": "log",
+          "message": "'to' option '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build' determinated as 'dir'"
+        },
+        {
+          "type": "log",
+          "message": "determined that '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/favicon-32x32.png' should write to 'favicon-32x32.png'"
+        },
+        {
+          "type": "log",
+          "message": "'to' option '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build' determinated as 'dir'"
+        },
+        {
+          "type": "log",
+          "message": "determined that '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/favicon.ico' should write to 'favicon.ico'"
+        },
+        {
+          "type": "log",
+          "message": "'to' option '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build' determinated as 'dir'"
+        },
+        {
+          "type": "log",
+          "message": "determined that '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/icon.svg' should write to 'icon.svg'"
+        },
+        {
+          "type": "log",
+          "message": "'to' option '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build' determinated as 'dir'"
+        },
+        {
+          "type": "log",
+          "message": "determined that '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/index.html.spa' should write to 'index.html.spa'"
+        },
+        {
+          "type": "log",
+          "message": "'to' option '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build' determinated as 'dir'"
+        },
+        {
+          "type": "log",
+          "message": "determined that '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/robots.txt' should write to 'robots.txt'"
+        },
+        {
+          "type": "log",
+          "message": "'to' option '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build' determinated as 'dir'"
+        },
+        {
+          "type": "log",
+          "message": "determined that '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/site.webmanifest' should write to 'site.webmanifest'"
+        },
+        {
+          "type": "log",
+          "message": "finished to process a pattern from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/**/*' using '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend' context to '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build'"
+        },
+        {
+          "type": "log",
+          "message": "writing 'android-chrome-192x192.png' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/android-chrome-192x192.png' to compilation assets..."
+        },
+        {
+          "type": "log",
+          "message": "written 'android-chrome-192x192.png' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/android-chrome-192x192.png' to compilation assets"
+        },
+        {
+          "type": "log",
+          "message": "writing 'android-chrome-512x512.png' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/android-chrome-512x512.png' to compilation assets..."
+        },
+        {
+          "type": "log",
+          "message": "written 'android-chrome-512x512.png' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/android-chrome-512x512.png' to compilation assets"
+        },
+        {
+          "type": "log",
+          "message": "writing 'apple-touch-icon.png' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/apple-touch-icon.png' to compilation assets..."
+        },
+        {
+          "type": "log",
+          "message": "written 'apple-touch-icon.png' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/apple-touch-icon.png' to compilation assets"
+        },
+        {
+          "type": "log",
+          "message": "writing 'favicon-16x16.png' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/favicon-16x16.png' to compilation assets..."
+        },
+        {
+          "type": "log",
+          "message": "written 'favicon-16x16.png' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/favicon-16x16.png' to compilation assets"
+        },
+        {
+          "type": "log",
+          "message": "writing 'favicon-32x32.png' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/favicon-32x32.png' to compilation assets..."
+        },
+        {
+          "type": "log",
+          "message": "written 'favicon-32x32.png' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/favicon-32x32.png' to compilation assets"
+        },
+        {
+          "type": "log",
+          "message": "writing 'favicon.ico' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/favicon.ico' to compilation assets..."
+        },
+        {
+          "type": "log",
+          "message": "written 'favicon.ico' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/favicon.ico' to compilation assets"
+        },
+        {
+          "type": "log",
+          "message": "writing 'icon.svg' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/icon.svg' to compilation assets..."
+        },
+        {
+          "type": "log",
+          "message": "written 'icon.svg' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/icon.svg' to compilation assets"
+        },
+        {
+          "type": "log",
+          "message": "writing 'index.html.spa' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/index.html.spa' to compilation assets..."
+        },
+        {
+          "type": "log",
+          "message": "written 'index.html.spa' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/index.html.spa' to compilation assets"
+        },
+        {
+          "type": "log",
+          "message": "writing 'robots.txt' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/robots.txt' to compilation assets..."
+        },
+        {
+          "type": "log",
+          "message": "written 'robots.txt' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/robots.txt' to compilation assets"
+        },
+        {
+          "type": "log",
+          "message": "writing 'site.webmanifest' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/site.webmanifest' to compilation assets..."
+        },
+        {
+          "type": "log",
+          "message": "written 'site.webmanifest' from '/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/public/site.webmanifest' to compilation assets"
+        },
+        {
+          "type": "log",
+          "message": "finished to adding additional assets"
+        }
+      ],
+      "filteredEntries": 42,
+      "debug": false
+    }
+  },
+  "children": [
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??razzle-css-loader!node_modules/razzle/node_modules/postcss-loader/dist/cjs.js??razzle-postcss-loader!node_modules/@plone/volto/packages/volto-slate/src/blocks/Text/css/editor.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??razzle-css-loader!node_modules/razzle/node_modules/postcss-loader/dist/cjs.js??razzle-postcss-loader!node_modules/@plone/volto/packages/volto-slate/src/widgets/style.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??razzle-css-loader!node_modules/razzle/node_modules/postcss-loader/dist/cjs.js??razzle-postcss-loader!node_modules/rc-time-picker/assets/index.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??razzle-css-loader!node_modules/razzle/node_modules/postcss-loader/dist/cjs.js??razzle-postcss-loader!node_modules/react-dates/lib/css/_datepicker.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??razzle-css-loader!node_modules/razzle/node_modules/postcss-loader/dist/cjs.js??razzle-postcss-loader!node_modules/react-image-gallery/styles/css/image-gallery.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--8-1!node_modules/postcss-loader/dist/cjs.js??ref--8-2!node_modules/less-loader/dist/cjs.js??ref--8-3!node_modules/@eeacms/volto-accordion-block/src/components/manage/Blocks/Accordion/editor.less"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--8-1!node_modules/postcss-loader/dist/cjs.js??ref--8-2!node_modules/less-loader/dist/cjs.js??ref--8-3!node_modules/@eeacms/volto-accordion-block/src/components/manage/Widgets/editor.less"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--8-1!node_modules/postcss-loader/dist/cjs.js??ref--8-2!node_modules/less-loader/dist/cjs.js??ref--8-3!node_modules/@kitconcept/volto-blocks-grid/src/theme/styles.less"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--8-1!node_modules/postcss-loader/dist/cjs.js??ref--8-2!node_modules/less-loader/dist/cjs.js??ref--8-3!node_modules/@kitconcept/volto-slider-block/src/theme/main.less"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--8-1!node_modules/postcss-loader/dist/cjs.js??ref--8-2!node_modules/less-loader/dist/cjs.js??ref--8-3!node_modules/@plone/volto/packages/volto-slate/src/editor/less/editor.less"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--8-1!node_modules/postcss-loader/dist/cjs.js??ref--8-2!node_modules/less-loader/dist/cjs.js??ref--8-3!node_modules/@plone/volto/packages/volto-slate/src/editor/plugins/StyleMenu/style.less"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--8-1!node_modules/postcss-loader/dist/cjs.js??ref--8-2!node_modules/less-loader/dist/cjs.js??ref--8-3!node_modules/@plone/volto/packages/volto-slate/src/editor/plugins/Table/less/public.less"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--8-1!node_modules/postcss-loader/dist/cjs.js??ref--8-2!node_modules/less-loader/dist/cjs.js??ref--8-3!node_modules/@plone/volto/packages/volto-slate/src/editor/plugins/Table/less/table.less"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--8-1!node_modules/postcss-loader/dist/cjs.js??ref--8-2!node_modules/less-loader/dist/cjs.js??ref--8-3!node_modules/@plone/volto/theme/themes/pastanaga/extras/extras.less"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/dobriceanioandorian/Work/uclass/hidrosaltconsulting/hidrosalt-consulting/frontend/build/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--8-1!node_modules/postcss-loader/dist/cjs.js??ref--8-2!node_modules/less-loader/dist/cjs.js??ref--8-3!node_modules/semantic-ui-less/semantic.less"
+    }
+  ]
+}

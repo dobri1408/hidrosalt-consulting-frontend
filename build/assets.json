@@ -1,0 +1,586 @@
+{
+  "20": {
+    "js": [
+      "/static/js/20.70e3dfa1.chunk.js"
+    ],
+    "map": [
+      "/static/js/20.70e3dfa1.chunk.js.map"
+    ],
+    "chunks": [
+      20
+    ]
+  },
+  "21": {
+    "js": [
+      "/static/js/21.d1eb9f1c.chunk.js"
+    ],
+    "map": [
+      "/static/js/21.d1eb9f1c.chunk.js.map"
+    ],
+    "chunks": [
+      21
+    ]
+  },
+  "22": {
+    "js": [
+      "/static/js/22.626b1fd7.chunk.js"
+    ],
+    "map": [
+      "/static/js/22.626b1fd7.chunk.js.map"
+    ],
+    "chunks": [
+      22
+    ]
+  },
+  "23": {
+    "js": [
+      "/static/js/23.f79c53d7.chunk.js"
+    ],
+    "map": [
+      "/static/js/23.f79c53d7.chunk.js.map"
+    ],
+    "chunks": [
+      23
+    ]
+  },
+  "24": {
+    "js": [
+      "/static/js/24.510c0669.chunk.js"
+    ],
+    "map": [
+      "/static/js/24.510c0669.chunk.js.map"
+    ],
+    "chunks": [
+      24
+    ]
+  },
+  "25": {
+    "js": [
+      "/static/js/25.8dfa6d8d.chunk.js"
+    ],
+    "map": [
+      "/static/js/25.8dfa6d8d.chunk.js.map"
+    ],
+    "chunks": [
+      25
+    ]
+  },
+  "26": {
+    "js": [
+      "/static/js/26.35dd8aec.chunk.js"
+    ],
+    "map": [
+      "/static/js/26.35dd8aec.chunk.js.map"
+    ],
+    "chunks": [
+      26
+    ]
+  },
+  "27": {
+    "js": [
+      "/static/js/27.78a0d47c.chunk.js"
+    ],
+    "map": [
+      "/static/js/27.78a0d47c.chunk.js.map"
+    ],
+    "chunks": [
+      27
+    ]
+  },
+  "28": {
+    "js": [
+      "/static/js/28.791e37ca.chunk.js"
+    ],
+    "map": [
+      "/static/js/28.791e37ca.chunk.js.map"
+    ],
+    "chunks": [
+      28
+    ]
+  },
+  "29": {
+    "js": [
+      "/static/js/29.5d6c3d32.chunk.js"
+    ],
+    "map": [
+      "/static/js/29.5d6c3d32.chunk.js.map"
+    ],
+    "chunks": [
+      29
+    ]
+  },
+  "30": {
+    "js": [
+      "/static/js/30.2a3f8a91.chunk.js"
+    ],
+    "map": [
+      "/static/js/30.2a3f8a91.chunk.js.map"
+    ],
+    "chunks": [
+      30
+    ]
+  },
+  "31": {
+    "js": [
+      "/static/js/31.efbea2b8.chunk.js"
+    ],
+    "map": [
+      "/static/js/31.efbea2b8.chunk.js.map"
+    ],
+    "chunks": [
+      31
+    ]
+  },
+  "draft-js-plugins-editor": {
+    "js": [
+      "/static/js/draft-js.ca0a182c.chunk.js"
+    ],
+    "map": [
+      "/static/js/draft-js.ca0a182c.chunk.js.map"
+    ],
+    "chunks": [
+      0,
+      5
+    ]
+  },
+  "draft-js-import-html": {
+    "js": [
+      "/static/js/draft-js.ca0a182c.chunk.js"
+    ],
+    "map": [
+      "/static/js/draft-js.ca0a182c.chunk.js.map"
+    ],
+    "chunks": [
+      0,
+      5
+    ]
+  },
+  "draft-js": {
+    "js": [
+      "/static/js/draft-js.ca0a182c.chunk.js"
+    ],
+    "map": [
+      "/static/js/draft-js.ca0a182c.chunk.js.map"
+    ],
+    "chunks": [
+      0,
+      5
+    ]
+  },
+  "draft-js-plugins-utils": {
+    "js": [
+      "/static/js/draft-js.ca0a182c.chunk.js"
+    ],
+    "map": [
+      "/static/js/draft-js.ca0a182c.chunk.js.map"
+    ],
+    "chunks": [
+      0,
+      5
+    ]
+  },
+  "draft-js-buttons-lib-utils-createInlineStyleButton": {
+    "js": [
+      "/static/js/draft-js.ca0a182c.chunk.js"
+    ],
+    "map": [
+      "/static/js/draft-js.ca0a182c.chunk.js.map"
+    ],
+    "chunks": [
+      0,
+      5
+    ]
+  },
+  "draft-js-buttons-lib-utils-createBlockStyleButton": {
+    "js": [
+      "/static/js/draft-js.ca0a182c.chunk.js"
+    ],
+    "map": [
+      "/static/js/draft-js.ca0a182c.chunk.js.map"
+    ],
+    "chunks": [
+      0,
+      5
+    ]
+  },
+  "draftjs-filters": {
+    "js": [
+      "/static/js/draft-js.ca0a182c.chunk.js"
+    ],
+    "map": [
+      "/static/js/draft-js.ca0a182c.chunk.js.map"
+    ],
+    "chunks": [
+      0,
+      5
+    ]
+  },
+  "draft-js-inline-toolbar-plugin": {
+    "js": [
+      "/static/js/draft-js.ca0a182c.chunk.js"
+    ],
+    "map": [
+      "/static/js/draft-js.ca0a182c.chunk.js.map"
+    ],
+    "chunks": [
+      0,
+      5
+    ]
+  },
+  "draft-js-block-breakout-plugin": {
+    "js": [
+      "/static/js/draft-js.ca0a182c.chunk.js"
+    ],
+    "map": [
+      "/static/js/draft-js.ca0a182c.chunk.js.map"
+    ],
+    "chunks": [
+      0,
+      5
+    ]
+  },
+  "plone-volto-components-manage-Widgets-RecurrenceWidget-RecurrenceWidget": {
+    "js": [
+      "/static/js/react-select.15669f27.chunk.js"
+    ],
+    "map": [
+      "/static/js/react-select.15669f27.chunk.js.map"
+    ],
+    "chunks": [
+      1,
+      18
+    ]
+  },
+  "react-select": {
+    "js": [
+      "/static/js/react-select.15669f27.chunk.js"
+    ],
+    "map": [
+      "/static/js/react-select.15669f27.chunk.js.map"
+    ],
+    "chunks": [
+      1,
+      18
+    ]
+  },
+  "react-select-creatable": {
+    "js": [
+      "/static/js/react-select.15669f27.chunk.js"
+    ],
+    "map": [
+      "/static/js/react-select.15669f27.chunk.js.map"
+    ],
+    "chunks": [
+      1,
+      18
+    ]
+  },
+  "react-select-async-creatable": {
+    "js": [
+      "/static/js/react-select.15669f27.chunk.js"
+    ],
+    "map": [
+      "/static/js/react-select.15669f27.chunk.js.map"
+    ],
+    "chunks": [
+      1,
+      18
+    ]
+  },
+  "react-select-async": {
+    "js": [
+      "/static/js/react-select.15669f27.chunk.js"
+    ],
+    "map": [
+      "/static/js/react-select.15669f27.chunk.js.map"
+    ],
+    "chunks": [
+      1,
+      18
+    ]
+  },
+  "react-select-async-paginate": {
+    "js": [
+      "/static/js/react-select.15669f27.chunk.js"
+    ],
+    "map": [
+      "/static/js/react-select.15669f27.chunk.js.map"
+    ],
+    "chunks": [
+      1,
+      18
+    ]
+  },
+  "client": {
+    "js": [
+      "/static/js/runtime~client.1cacb636.js",
+      "/static/js/client.f6cf6a8c.chunk.js"
+    ],
+    "map": [
+      "/static/js/runtime~client.1cacb636.js.map",
+      "/static/css/client.ccf80b4b.chunk.css.map",
+      "/static/js/client.f6cf6a8c.chunk.js.map"
+    ],
+    "css": [
+      "/static/css/client.ccf80b4b.chunk.css"
+    ],
+    "chunks": [
+      19,
+      2
+    ]
+  },
+  "diff": {
+    "js": [
+      "/static/js/diff.42a435ca.chunk.js"
+    ],
+    "map": [
+      "/static/js/diff.42a435ca.chunk.js.map"
+    ],
+    "chunks": [
+      3
+    ]
+  },
+  "draft-js-lib-isSoftNewlineEvent": {
+    "js": [
+      "/static/js/draft-js-lib-isSoftNewlineEvent.232637f9.chunk.js"
+    ],
+    "map": [
+      "/static/js/draft-js-lib-isSoftNewlineEvent.232637f9.chunk.js.map"
+    ],
+    "chunks": [
+      4
+    ]
+  },
+  "immutable": {
+    "js": [
+      "/static/js/immutable.2c9576f4.chunk.js"
+    ],
+    "map": [
+      "/static/js/immutable.2c9576f4.chunk.js.map"
+    ],
+    "chunks": [
+      5
+    ]
+  },
+  "plone-volto-components-theme-View-EventView": {
+    "js": [
+      "/static/js/plone-volto-components-theme-View-EventView.28291950.chunk.js"
+    ],
+    "map": [
+      "/static/js/plone-volto-components-theme-View-EventView.28291950.chunk.js.map"
+    ],
+    "chunks": [
+      6
+    ]
+  },
+  "prettier-parser-html": {
+    "js": [
+      "/static/js/prettier-parser-html.acf6f3d8.chunk.js"
+    ],
+    "map": [
+      "/static/js/prettier-parser-html.acf6f3d8.chunk.js.map"
+    ],
+    "chunks": [
+      7
+    ]
+  },
+  "prettier-standalone": {
+    "js": [
+      "/static/js/prettier-standalone.57f888ea.chunk.js"
+    ],
+    "map": [
+      "/static/js/prettier-standalone.57f888ea.chunk.js.map"
+    ],
+    "chunks": [
+      8
+    ]
+  },
+  "prismjs-components-prism-core": {
+    "js": [
+      "/static/js/prismjs-components-prism-core.3633d484.chunk.js"
+    ],
+    "map": [
+      "/static/js/prismjs-components-prism-core.3633d484.chunk.js.map"
+    ],
+    "chunks": [
+      9
+    ]
+  },
+  "rc-time-picker": {
+    "js": [
+      "/static/js/rc-time-picker.93961bf3.chunk.js"
+    ],
+    "map": [
+      "/static/js/rc-time-picker.93961bf3.chunk.js.map"
+    ],
+    "chunks": [
+      10
+    ]
+  },
+  "react-dates": {
+    "js": [
+      "/static/js/react-dates.ceaeaa1c.chunk.js"
+    ],
+    "map": [
+      "/static/js/react-dates.ceaeaa1c.chunk.js.map"
+    ],
+    "chunks": [
+      11
+    ]
+  },
+  "react-dnd": {
+    "js": [
+      "/static/js/react-dnd.c695781c.chunk.js"
+    ],
+    "map": [
+      "/static/js/react-dnd.c695781c.chunk.js.map"
+    ],
+    "chunks": [
+      12
+    ]
+  },
+  "react-dnd-html5-backend": {
+    "js": [
+      "/static/js/react-dnd-html5-backend.8bcdede3.chunk.js"
+    ],
+    "map": [
+      "/static/js/react-dnd-html5-backend.8bcdede3.chunk.js.map"
+    ],
+    "chunks": [
+      13
+    ]
+  },
+  "react-image-gallery": {
+    "js": [
+      "/static/js/react-image-gallery.19c0467e.chunk.js"
+    ],
+    "map": [
+      "/static/js/react-image-gallery.19c0467e.chunk.js.map"
+    ],
+    "chunks": [
+      14
+    ]
+  },
+  "react-simple-code-editor": {
+    "js": [
+      "/static/js/react-simple-code-editor.8340fa24.chunk.js"
+    ],
+    "map": [
+      "/static/js/react-simple-code-editor.8340fa24.chunk.js.map"
+    ],
+    "chunks": [
+      15
+    ]
+  },
+  "react-sortable-hoc": {
+    "js": [
+      "/static/js/react-sortable-hoc.f1646d44.chunk.js"
+    ],
+    "map": [
+      "/static/js/react-sortable-hoc.f1646d44.chunk.js.map"
+    ],
+    "chunks": [
+      16
+    ]
+  },
+  "react-virtualized": {
+    "js": [
+      "/static/js/react-virtualized.bfcb3ba7.chunk.js"
+    ],
+    "map": [
+      "/static/js/react-virtualized.bfcb3ba7.chunk.js.map"
+    ],
+    "chunks": [
+      17
+    ]
+  },
+  "rrule": {
+    "js": [
+      "/static/js/rrule.ab8d4d37.chunk.js"
+    ],
+    "map": [
+      "/static/js/rrule.ab8d4d37.chunk.js.map"
+    ],
+    "chunks": [
+      18
+    ]
+  },
+  "noentry": {
+    "png": [
+      "/android-chrome-192x192.png",
+      "/android-chrome-512x512.png",
+      "/apple-touch-icon.png",
+      "/favicon-16x16.png",
+      "/favicon-32x32.png",
+      "/static/media/flags.9c74e172.png"
+    ],
+    "ico": [
+      "/favicon.ico"
+    ],
+    "svg": [
+      "/icon.svg",
+      "/static/media/Logo.16e25cdf.svg",
+      "/static/media/block-image.8a4a14d5.svg",
+      "/static/media/block-maps.731e84f6.svg",
+      "/static/media/block-video.832fa3ff.svg",
+      "/static/media/default-image.9451b251.svg",
+      "/static/media/grid-1.f89d5f8b.svg",
+      "/static/media/grid-2.4068e674.svg",
+      "/static/media/grid-3.19cf9f8d.svg",
+      "/static/media/grid-4.2b07a173.svg",
+      "/static/media/grid-5.b5b500b1.svg",
+      "/static/media/grid-6.3a790adb.svg",
+      "/static/media/grid-more.63c498e3.svg",
+      "/static/media/icons.022583c4.svg",
+      "/static/media/slick.f97e3bbf.svg"
+    ],
+    "spa": [
+      "/index.html.spa"
+    ],
+    "txt": [
+      "/robots.txt",
+      "/static/js/client.f6cf6a8c.chunk.js.LICENSE.txt",
+      "/static/js/diff.42a435ca.chunk.js.LICENSE.txt",
+      "/static/js/prettier-parser-html.acf6f3d8.chunk.js.LICENSE.txt",
+      "/static/js/prettier-standalone.57f888ea.chunk.js.LICENSE.txt",
+      "/static/js/prismjs-components-prism-core.3633d484.chunk.js.LICENSE.txt",
+      "/static/js/rc-time-picker.93961bf3.chunk.js.LICENSE.txt",
+      "/static/js/react-select.15669f27.chunk.js.LICENSE.txt"
+    ],
+    "webmanifest": [
+      "/site.webmanifest"
+    ],
+    "woff2": [
+      "/static/media/Poppins-Bold-devanagari.7def222d.woff2",
+      "/static/media/Poppins-Bold-latin.25b0e113.woff2",
+      "/static/media/Poppins-Bold-latinext.96b6d546.woff2",
+      "/static/media/Poppins-BoldItalic-devanagari.17352fe0.woff2",
+      "/static/media/Poppins-BoldItalic-latin.858549c2.woff2",
+      "/static/media/Poppins-BoldItalic-latinext.34ad495c.woff2",
+      "/static/media/Poppins-Light-devanagari.dc820d9f.woff2",
+      "/static/media/Poppins-Light-latin.8d91ec1c.woff2",
+      "/static/media/Poppins-Light-latinext.6731e1ba.woff2",
+      "/static/media/Poppins-Regular-devanagari.790d0c8d.woff2",
+      "/static/media/Poppins-Regular-latin.9212f6f9.woff2",
+      "/static/media/Poppins-Regular-latinext.0ed299a4.woff2",
+      "/static/media/Poppins-RegularItalic-devanagari.ba7c820d.woff2",
+      "/static/media/Poppins-RegularItalic-latin.a242ba0d.woff2",
+      "/static/media/Poppins-RegularItalic-latinext.efd6a6a1.woff2",
+      "/static/media/Poppins-Semibold-devanagari.79e6e81d.woff2",
+      "/static/media/Poppins-Semibold-latin.a09f2fcc.woff2",
+      "/static/media/Poppins-Semibold-latinext.a6ff41d1.woff2"
+    ],
+    "ttf": [
+      "/static/media/icons.06400145.ttf",
+      "/static/media/slick.d41f55a7.ttf"
+    ],
+    "eot": [
+      "/static/media/icons.dbc1ef8b.eot",
+      "/static/media/slick.ced611da.eot"
+    ],
+    "woff": [
+      "/static/media/icons.df45b7de.woff",
+      "/static/media/slick.b7c9e1e4.woff"
+    ]
+  }
+}

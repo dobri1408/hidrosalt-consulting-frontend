@@ -15,6 +15,8 @@
     "prettier:ci": "./node_modules/.bin/prettier --single-quote --check 'src/**/*.{js,jsx,ts,tsx,css,scss}'",
     "stylelint": "stylelint 'theme/**/*.{css,scss,less}' 'src/**/*.{css,scss,less}'",
     "stylelint:overrides": "stylelint 'theme/**/*.overrides' 'src/**/*.overrides'",
+    "develop:npx": "npx -p mrs-developer missdev --config=jsconfig.json --output=addons --fetch-https",
+    "develop": "missdev --config=jsconfig.json --output=addons --fetch-https",
     "stylelint:fix": "yarn stylelint --fix && yarn stylelint:overrides --fix",
     "test": "razzle test --passWithNoTests",
     "cypress:open": "make test-acceptance",
@@ -28,7 +30,7 @@
     "@eeacms/volto-accordion-block",
     "@kitconcept/volto-blocks-grid",
     "@kitconcept/volto-slider-block",
-    "@eeacms/volto-matomo"
+    "@dobri1408/hidrosalt-consulting-theme"
   ],
   "jest": {
     "modulePathIgnorePatterns": [

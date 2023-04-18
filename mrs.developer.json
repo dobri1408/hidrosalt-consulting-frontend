@@ -1,1 +1,10 @@
-{}
+{
+  "hidrosalt-consulting-theme": {
+    "url": "git@github.com:dobri1408/hidrosalt-consulting-theme.git",
+    "https": "https://github.com/dobri1408/hidrosalt-consulting-theme.git",
+    "package": "@dobri1408/hidrosalt-consulting-theme",
+    "branch": "master",
+    "develop": true,
+    "path": "src"
+  }
+}

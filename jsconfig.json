@@ -1,6 +1,10 @@
 {
-    "compilerOptions": {
-        "paths": {},
-        "baseUrl": "src"
-    }
+  "compilerOptions": {
+    "paths": {
+      "@dobri1408/hidrosalt-consulting-theme": [
+        "addons/hidrosalt-consulting-theme/src"
+      ]
+    },
+    "baseUrl": "src"
+  }
 }
